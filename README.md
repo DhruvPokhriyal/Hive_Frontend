@@ -79,11 +79,9 @@ Folder Structure
 │   ├── create.dart                # Create post screen
 │   └── login.dart                 # Google Sign-In
 └── main.dart                      # App entry point
-
-Contributions
-Shivam Purve
-
-
+```
+# Contributions
+## Shivam Purve
 Developed UI Screens:
 Home Screen
 Comment Screen
@@ -96,20 +94,14 @@ Search functionality with filters
 Create post with content analysis support
 
 
-Mritunjay Tiwari
+## Mritunjay Tiwari
 
 Added Bottom Navigation Bar and App Bar with design and logic
-
 Implemented API integration for authentication (Google Sign-In with Supabase)
-
 Integrated User Profile screen API
-
 Added Notifications screen with local notification support
-
 Implemented route management for multiple screens using go_router
-
 Added state persistence for Bottom Navigation Bar
-
 Fixed several routing and connection bugs
 
 
