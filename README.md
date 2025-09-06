@@ -128,20 +128,22 @@ social_garbage/
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Screenshot_20250906_233745](https://github.com/user-attachments/assets/6e695e4b-54cf-4d5b-aaa3-083925df428f)
 
 ### Login with Google
-![Login Screen](screenshots/login_screen.png)
+![Screenshot_20250906_233940](https://github.com/user-attachments/assets/1ab2420c-3d0b-4c62-ab9e-ad75668fa934)
 
 ### Create Post
-![Create Post](screenshots/create_post.png)
+![Screenshot_20250906_233602](https://github.com/user-attachments/assets/317ea7f1-f3d8-4508-9829-3f67edb23767)
 
-### Notifications
-![Notifications](screenshots/notifications.png)
+### Notification
+![Screenshot_20250906_233615](https://github.com/user-attachments/assets/76441ab8-4fa1-43c8-94dd-dc3fd4f1e041)
 
 ### Search
-![Search](screenshots/search.png)
+![Screenshot_20250906_233552](https://github.com/user-attachments/assets/5685a766-f69b-4db1-8ac0-fb10e5e51947)
 
+### Logout
+![Screenshot_20250906_233626](https://github.com/user-attachments/assets/975768a6-c0d9-4a5d-a947-d57c48815693)
 
 
 ## Tech Stack
