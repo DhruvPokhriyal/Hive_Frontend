@@ -86,6 +86,7 @@ Folder Structure
 Designed UI Design in Figma<br>
 Developed UI Screens:
 Create Screen
+Notification Screen<br>
 Added Bottom Navigation Bar and App Bar with design and logic<br>
 Implemented API integration for authentication (Google Sign-In with Supabase)<br>
 Integrated User Profile screen API<br>
