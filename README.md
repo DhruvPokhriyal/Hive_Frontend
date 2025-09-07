@@ -104,8 +104,7 @@ Home Screen
 Comment Screen
 Search Screen
 Post Card Widget,
-Search functionality with filters,
-Create post with content analysis support
+Search Screen functionality with filters
 
 
 ##  Screenshots of different pages:-
