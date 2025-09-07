@@ -81,28 +81,31 @@ Folder Structure
 └── main.dart                      # App entry point
 ```
 # Contributions
+## Mritunjay Tiwari
+
+Designed UI in Figma for Application<br>
+Developed UI Screens:
+Create Screen
+Added Bottom Navigation Bar and App Bar with design and logic<br>
+Implemented API integration for authentication (Google Sign-In with Supabase)<br>
+Integrated User Profile screen API<br>
+API Integration:
+Posts (fetch, like, dislike, comment)<br>
+Implemented and Configured Function to Integrate the All the Endpoints in the App<br>
+Added Notifications screen with local notification support<br>
+Implemented route management for multiple screens<br>
+Added state persistence for Bottom Navigation Bar<br>
+Fixed several routing and connection bugs<br>
+
+
 ## Shivam Purve
 Developed UI Screens:
 Home Screen
 Comment Screen
-Create Screen
 Search Screen
-Post Card Widget
-API Integration:
-Posts (fetch, like, dislike, comment)
-Search functionality with filters
+Post Card Widget,
+Search functionality with filters,
 Create post with content analysis support
-
-
-## Mritunjay Tiwari
-
-Added Bottom Navigation Bar and App Bar with design and logic
-Implemented API integration for authentication (Google Sign-In with Supabase)
-Integrated User Profile screen API
-Added Notifications screen with local notification support
-Implemented route management for multiple screens using go_router
-Added state persistence for Bottom Navigation Bar
-Fixed several routing and connection bugs
 
 
 ##  Screenshots of different pages:-
