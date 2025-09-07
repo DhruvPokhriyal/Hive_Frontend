@@ -85,6 +85,7 @@ Folder Structure
 
 Designed UI Design in Figma<br>
 Developed UI Screens:
+Login Screen
 Create Screen
 Notification Screen<br>
 Added Bottom Navigation Bar and App Bar with design and logic<br>
