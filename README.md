@@ -83,7 +83,7 @@ Folder Structure
 # Contributions
 ## Mritunjay Tiwari
 
-Designed UI in Figma for Application<br>
+Designed UI Design in Figma<br>
 Developed UI Screens:
 Create Screen
 Added Bottom Navigation Bar and App Bar with design and logic<br>
